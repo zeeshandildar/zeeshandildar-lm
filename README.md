@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zeeshandildar-lm
+- 👋 Hi, I’m @zeeshandildar
 - 👀 I’m interested in RISC-V based hardware design and verification
 - 🌱 I’m currently learning UVM for verification
 - 💞️ I’m looking to collaborate on Verification of RISC-V Core IPs and Peripheral IPs and anyother hardware designing and verification projects
